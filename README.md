@@ -50,8 +50,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:1933874@donga.ac.kr">
-    <img
-      src="https://img.shields.io/badge/1933874@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />&nbsp
+    <img src="https://img.shields.io/badge/1933874@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
@@ -62,7 +61,6 @@
 <h3 align="center"> My Website </h3>
 <div align = "center">
     <a href="https://bit.ly/4fMvYdr">
-    <img
-      src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+    <img src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
   </a>
 </div>
