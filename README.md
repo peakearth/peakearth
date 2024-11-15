@@ -38,8 +38,8 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <br>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style.svg?style=for-the-badge&logo=SketchUp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style.svg?style=for-the-badge&logo=SketchUp&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillurstartor&logoColor=white" />
 </div>
 
