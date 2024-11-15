@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
+  <!--style>
     /* 특정 클래스에만 밑줄 제거 스타일을 적용 */
     .no-underline {
       text-decoration: none;
     }
-  </style>
+</style--!>
 </head>
 <body>
 
