@@ -1,7 +1,4 @@
 <!--내용 부분-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -12,6 +9,7 @@
 
 <div align="center">
 </div>
+
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -56,6 +54,10 @@
       src="https://img.shields.io/badge/1933874@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />&nbsp
   </a>
 </div>
+
+<div align="center">
+</div>
+
 <div align = "center">
     <a href="https://bit.ly/4fMvYdr">
     <img
