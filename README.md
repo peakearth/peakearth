@@ -58,7 +58,7 @@
 </div>
 
 <br>
-<h3 align="center"> My Website </h3>
+<h3 align="center">✨ My Website ✨</h3>
 <div align = "center">
     <a href="https://bit.ly/4fMvYdr">
     <img src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
