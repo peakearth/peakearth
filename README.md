@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    /* 특정 클래스에만 밑줄 제거 스타일을 적용 */
-    .no-underline {
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+
+<!-- 자기소개 -->
+<h3> Hi! Welcome :) </h3>
+<h4> Data Analysist / GIS Developer </h4>
+
+<div>
+   I aim to research urban planning that combines big data and urban engineering for safe, convenient cities.
+</div>
 
 <!-- 내용 부분 -->
 <h3>✨ Tech Stack ✨</h3>
@@ -51,7 +50,7 @@
 </div>
 
 <br>
-<h3>✨ My Website ✨</h3>
+<h3>🐱 About Me 🐱 </h3>
 <div>
   <a href="https://bit.ly/4fMvYdr" class="no-underline">
     <img src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
