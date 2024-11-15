@@ -5,9 +5,9 @@
 <h3 align="center"> Hi! Welcome :) </h3>
 <h4 align="center"> Data Analysist / GIS Developer </h4>
 
-<dir align="center>
-   "I aim to research urban planning that combines big data and urban engineering for safe, convenient cities."
-</dir>
+<div align="center>
+   I aim to research urban planning that combines big data and urban engineering for safe, convenient cities.
+</div>
 
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
