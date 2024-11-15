@@ -2,10 +2,10 @@
 <html>
 
 <!-- 자기소개 -->
-<h3 align="center"> Hi! Welcome :) </h3>
-<h4 align="center"> Data Analysist / GIS Developer </h4>
+<h3 align="center"> Hi! Welcome :)</h3>
+<h4 align="center"> Data Analysist / GIS Developer</h4>
 
-<div align="center>
+<div align="center">
    I aim to research urban planning that combines big data and urban engineering for safe, convenient cities.
 </div>
 
