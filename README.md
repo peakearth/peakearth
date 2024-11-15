@@ -12,7 +12,6 @@
 <!-- 내용 부분 -->
 <h3>✨ Tech Stack ✨</h3>
 <div>
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
@@ -48,8 +47,12 @@
   <img src="https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
+</div>
+
+<br>
   <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style.svg?style=for-the-badge&logo=SketchUp&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillurstartor&logoColor=white" />
+  <img src="https://img.shields.io/badge/V-Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
 
 
