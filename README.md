@@ -10,7 +10,7 @@
   𝐼 𝑎𝑖𝑚 𝑡𝑜 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑢𝑟𝑏𝑎𝑛 𝑝𝑙𝑎𝑛𝑛𝑖𝑛𝑔 𝑡ℎ𝑎𝑡 𝑐𝑜𝑚𝑏𝑖𝑛𝑒𝑠 𝑏𝑖𝑔 𝑑𝑎𝑡𝑎 𝑎𝑛𝑑 𝑢𝑟𝑏𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑓𝑜𝑟 𝑠𝑎𝑓𝑒,𝑐𝑜𝑛𝑣𝑒𝑛𝑖𝑒𝑛𝑡 𝑐𝑖𝑡𝑖𝑒𝑠.
 </div>
 
-![Peakearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakearth&show_icons=true&theme=radical)
+<!-- github 통계![Peakearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakearth&show_icons=true&theme=radical) -->
 
 
 <!-- 내용 부분 -->
