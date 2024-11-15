@@ -12,7 +12,7 @@
 </div>
 
 <!-- 내용 부분 -->
-<h3>✨ Tech Stack ✨</h3>
+<h3>✨ Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
@@ -28,7 +28,7 @@
 </div>
 
 <br>
-<h3>📚 Studying 📚</h3>
+<h3>📚 Studying</h3>
 <div>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -36,7 +36,7 @@
 </div>
 
 <br>
-<h3>🛠 Tools for cording 🛠</h3>
+<h3>🛠 Tools for cording</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,7 +45,7 @@
 </div>
 
 <br>
-<h3>🛠 Tools for Urban Planning & GIS 🛠</h3>
+<h3>🛠 Tools for Urban Planning & GIS</h3>
 <div>
   <img src="https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
@@ -61,7 +61,7 @@
 
 
 <br>
-<h3>📫 Contact 📫</h3>
+<h3>📫 Contact</h3>
 <div>
   <a href="mailto:1933874@donga.ac.kr" class="no-underline">
     <img src="https://img.shields.io/badge/1933874@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -69,7 +69,7 @@
 </div>
 
 <br>
-<h3>🐱 About Me 🐱 </h3>
+<h3>🐱 About Me</h3>
 <div>
   <a href="https://bit.ly/4fMvYdr" class="no-underline">
     <img src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
