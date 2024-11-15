@@ -28,7 +28,8 @@
 <br>
 <h3>📚 Studying 📚</h3>
 <div>
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
