@@ -2,18 +2,19 @@
 <html>
 
 <!-- 자기소개 -->
-<h3 align="center"> Hi! Welcome :) </h3>
-<h4 align="center"> Data Analysist / GIS Developer </h4>
+<h3 align="center"> 𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :) </h3>
+<h4 align="center"> 𝙶𝙸𝚂 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜𝚝 </h4>
 
 <div align="center">
   𝐼 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑢𝑟𝑏𝑎𝑛 𝑖𝑠𝑠𝑢𝑒𝑠 𝑢𝑠𝑖𝑛𝑔 𝐺𝐼𝑆, 𝑑𝑎𝑡𝑎 𝑎𝑛𝑎𝑙𝑦𝑠𝑖𝑠, 𝑎𝑛𝑑 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑡𝑖𝑜𝑛.<br>
   𝐼 𝑎𝑖𝑚 𝑡𝑜 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑢𝑟𝑏𝑎𝑛 𝑝𝑙𝑎𝑛𝑛𝑖𝑛𝑔 𝑡ℎ𝑎𝑡 𝑐𝑜𝑚𝑏𝑖𝑛𝑒𝑠 𝑏𝑖𝑔 𝑑𝑎𝑡𝑎 𝑎𝑛𝑑 𝑢𝑟𝑏𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑓𝑜𝑟 𝑠𝑎𝑓𝑒,𝑐𝑜𝑛𝑣𝑒𝑛𝑖𝑒𝑛𝑡 𝑐𝑖𝑡𝑖𝑒𝑠.
 </div>
 
-<!-- github 통계![Peakearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakearth&show_icons=true&theme=radical) -->
-
-<div align="'center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakeartha&layout=compact)
+<br>
+<div align="center">
+  제 Github에 방문해 주셔서 감사합니다!
+  저는, GIS, 데이터 분석 그리고 시각화를 활용해 도시 문제 해결에 주력하고 있습니다.
+  빅데이터와 도시공학의 융합을 통해 시민들이 안전하고 편리하게 생활할 수 있는 도시 계획을 연구하고자 합니다.
 </div>
 
 <!-- 내용 부분 -->
