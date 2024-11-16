@@ -1,4 +1,4 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <!-- 자기소개 -->
@@ -13,7 +13,7 @@
 <!-- github 통계![Peakearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakearth&show_icons=true&theme=radical) -->
 
 <div align="'center">
-<https://github-readme-stats.vercel.app/api/top-langs/?username=peakeartha&layout=compact>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakeartha&layout=compact)
 </div>
 
 <!-- 내용 부분 -->
@@ -47,7 +47,13 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
+</div>
+
+<br>
+<div align="center">
   <img src="https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
 <br>
