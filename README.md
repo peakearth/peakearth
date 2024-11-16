@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
 </div>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
 </div>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
