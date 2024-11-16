@@ -12,8 +12,12 @@
 
 <!-- github 통계![Peakearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakearth&show_icons=true&theme=radical) -->
 
+<div align="'center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakeartha&layout=compact)
+</div>
 
 <!-- 내용 부분 -->
+<br>
 <h3 align="center">✨ Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
