@@ -94,11 +94,12 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align = "center">📈 Project Stats</h3>
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220&card_height=110">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220&card_height=220"><br>
+<h3 align="center">📈 Project Stats</h3>
+<div align="center" style="display: flex; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 1;"><br>
 </div>
+
 
 <br>
 <p align="center">
