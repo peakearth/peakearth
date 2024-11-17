@@ -94,7 +94,7 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align="center"> Project Stats</h3>
+<h3 align="center">📈 Project Stats</h3>
 <div align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth"><br>
   
