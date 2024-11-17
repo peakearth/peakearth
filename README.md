@@ -100,7 +100,7 @@
 <!--   <img src = "http://mazassumnida.wtf/api/v2/generate_badge?https://solved.ac/{lIIllIiIllIliiIl}"> -->
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={lIIllIiIllIliiIl})](https://solved.ac/{lIIllIiIllIliiIl})
+[![Solved.aclIIllIiIllIliiIl](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 </body>
 </html>
