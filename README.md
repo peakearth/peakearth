@@ -1,4 +1,4 @@
-<img width="1146" alt="image" src="https://github.com/user-attachments/assets/5a14b577-8914-4159-836c-b8439383c07d"><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <!-- 자기소개 -->
