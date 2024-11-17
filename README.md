@@ -96,7 +96,7 @@
 <br>
 <h3 align="center"> Project Stats</h3>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&layout=compact)
+  <img src ="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&layout=compact")
 </div>
 
 </body>
