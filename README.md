@@ -94,12 +94,13 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align = "center">📈 Project Stats</h3>
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=rose"><br>
+<h3 align="center">📈 Project Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=rose"><br>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liilliiilliliiil)](https://solved.ac/liilliiilliliiil/)
-
-</body>
-</html>
+<p align="center">
+  <a href="https://solved.ac/liilliiilliliiil/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=liilliiilliliiil" />
+  </a>
+</p>
