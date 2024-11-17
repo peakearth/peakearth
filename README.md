@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<img width="1146" alt="image" src="https://github.com/user-attachments/assets/5a14b577-8914-4159-836c-b8439383c07d"><!DOCTYPE html>
 <html>
 
 <!-- 자기소개 -->
@@ -90,6 +90,13 @@
   <a href="https://bit.ly/4fMvYdr" class="no-underline">
     <img src="https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
+</div>
+
+<!-- 프로젝트 통계 -->
+<br>
+<h3 align="center"> Project Stats</h3>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&layout=compact)
 </div>
 
 </body>
