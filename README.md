@@ -96,7 +96,7 @@
 <br>
 <h3 align = "center">📈 Project Stats</h3>
 <div align = "center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=rose"><br>
 </div>
 
