@@ -97,7 +97,7 @@
 <h3 align = "center">📈 Project Stats</h3>
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=rose"><br>
-  <img src = "http://mazassumnida.wtf/api/generate_badge?boj={ccoco})](https://solved.ac/{ccoco}">
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ccoco})](https://solved.ac/{ccoco})
 </div>
 
 </body>
