@@ -79,7 +79,7 @@
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="mailto:1933874@donga.ac.kr" class="no-underline">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/G%@20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
@@ -96,7 +96,7 @@
 <br>
 <h3 align="center">📈 Project Stats</h3>
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth"><br>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&theme=rose"><br>
   
 </div>
 
