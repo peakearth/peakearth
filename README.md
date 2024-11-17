@@ -97,6 +97,8 @@
 <h3 align = "center">📈 Project Stats</h3>
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=rose"><br>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={liilliiilliliiil})](https://solved.ac/{liilliiilliliiil})
 </div>
 
 
