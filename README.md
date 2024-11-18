@@ -53,7 +53,7 @@
 <h3 align = "center"> qwer </h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white">
-  <img src = "https://img.shields.io/badge/Windows-22ABF3.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src = "https://img.shields.io/badge/Windows-22ABF3.svg?style=for-the-badge&logo=Windows&logoColor=white">
 </div>
 
 <!-- 코딩 관련 툴-->
