@@ -47,6 +47,15 @@
   <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
+<!-- 운영체제 --> 
+<!-- 이 부분은 추가는 하는데, 개재 여부에 관해서는 조금 더 고민할 필요가 있?을듯 -->
+<br>
+<h3 align = "center"> qwer </h3>
+<div align = "center">
+  <img src = "https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white">
+  <img src = "https://img.shields.io/badge/Windows-22ABF3.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 <!-- 코딩 관련 툴-->
 <br>
 <h3 align = "center">🛠 Tools for coding</h3>
@@ -57,7 +66,7 @@
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src = "https://img.shields.io/badge/VSCode-22ABF3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
   <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
