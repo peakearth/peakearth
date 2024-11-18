@@ -50,7 +50,7 @@
 <!-- 운영체제 --> 
 <!-- 이 부분은 추가는 하는데, 개재 여부에 관해서는 조금 더 고민할 필요가 있?을듯 -->
 <!-- br-->
-<!-- h3 align = "center"-->🖥️ Operation System <!-- /h3-->
+<!-- h3 align = "center"-- > <!-- /h3-->
 <!-- div align = "center"-->
   <!-- img src = "https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"-->
   <!-- img src = "https://img.shields.io/badge/Windows-22ABF3.svg?style=for-the-badge&logo=Windows&logoColor=white"-->
