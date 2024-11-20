@@ -50,6 +50,7 @@
   <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
+<br>
 <div align = "center">
   <img src = "https://img.shields.io/badge/google%20analytics-E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </div>
