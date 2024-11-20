@@ -41,10 +41,14 @@
 <!-- 공부중인 것들 -->
 <br>
 <h3 align = "center">📚 Studying</h3>
+
+<div align = "center">
+    <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
 <div align = "center">
   <img src = "https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=black" />
   <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 <!-- 운영체제 --> 
