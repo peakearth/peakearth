@@ -50,10 +50,10 @@
   <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
-<br>
-<div align = "center">
-  <img src = "https://img.shields.io/badge/google%20analytics-E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-</div>
+<!-- br -->
+<!-- div align = "center"-->
+  <!-- img src = "https://img.shields.io/badge/google%20analytics-E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" /-->
+<!-- /div-->
 
 <!-- 운영체제 --> 
 <!-- 이 부분은 추가는 하는데, 개재 여부에 관해서는 조금 더 고민할 필요가 있?을듯 -->
