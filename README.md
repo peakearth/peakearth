@@ -81,7 +81,7 @@
   <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
 </div>
 
-<div>
+<div align = "center">
   <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src = "https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
 </div>
@@ -91,9 +91,9 @@
   <img src = "https://img.shields.io/badge/V%20Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
 
-<div>
+<div align = "center">
     <img src = "https://img.shields.io/badge/Adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Adobe%20Photoshop-FF9A00.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </div>
 
 <!-- 연락처-->
