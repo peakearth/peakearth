@@ -66,7 +66,7 @@
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/VSCode-22ABF3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src = "https://img.shields.io/badge/VS-Code-22ABF3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src = "https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
   <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
