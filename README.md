@@ -110,14 +110,14 @@
   </a>
 </div>
 
-<!-- 노션 연결 -->
-<!-- br>
+<노션 연결>
+<br>
 <h3 align = "center">🐱 About Me</h3>
 <div align = "center">
   <a href = "https://bit.ly/4fMvYdr" class="no-underline">
     <img src = "https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
-</div -->
+</div>
 
 <!-- 프로젝트 통계 -->
 <br>
