@@ -20,9 +20,9 @@
 
 <!-- 내용 부분 -->
 <br>
-<h3 align = "center">✨ Tech Stack</h3>
+<h3 align = "center">✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
 <div align = "center">
-  <img src = "https://img.shields.io/badge/𝑷𝒀𝑻𝑯𝑶𝑵-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 </div>
 
@@ -39,7 +39,7 @@
 
 <!-- 공부중인 것들 -->
 <br>
-<h3 align = "center">📚 Studying</h3>
+<h3 align = "center">📚 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 </h3>
 
 <div align = "center">
     <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -66,7 +66,7 @@
 
 <!-- 코딩 관련 툴-->
 <br>
-<h3 align = "center">🛠 Tools for coding</h3>
+<h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝒄𝒐𝒓𝒅𝒊𝒏𝒈 </h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -81,7 +81,7 @@
 
 <!-- 도시계획 관련 툴-->
 <br>
-<h3 align = "center">🛠 Tools for Urban Planning & GIS</h3>
+<h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝑼𝒓𝒃𝒂𝒏 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 & 𝑮𝑰𝑺 </h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
 </div>
@@ -103,7 +103,7 @@
 
 <!-- 연락처-->
 <br>
-<h3 align = "center">📫 Contact</h3>
+<h3 align = "center">📫 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 </h3>
 <div align = "center">
   <a href = "mailto:1933874@donga.ac.kr" class="no-underline">
     <img src = "https://img.shields.io/badge/G%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -112,7 +112,7 @@
 
 <!-- 노션 연결 -->
 <br>
-<h3 align = "center">🐱 About Me</h3>
+<h3 align = "center">🐱 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆! </h3>
 <div align = "center">
   <a href = "https://bit.ly/4fMvYdr" class="no-underline">
     <img src = "https://img.shields.io/badge/My Site-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
@@ -121,7 +121,7 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align="center">📈 Project Stats</h3>
+<h3 align="center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
 <div align="center" style="display: flex; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 1;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 1;"><br>
