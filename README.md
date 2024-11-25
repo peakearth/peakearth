@@ -110,7 +110,7 @@
   </a>
 </div>
 
-<노션 연결>
+<!-- 노션 연결 -->
 <br>
 <h3 align = "center">🐱 About Me</h3>
 <div align = "center">
