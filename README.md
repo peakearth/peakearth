@@ -104,7 +104,7 @@
 <h3 align = "center">📫 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 </h3>
 <div align = "center">
   <a href = "mailto:1933874@donga.ac.kr" class="no-underline">
-    <img src = "https://img.shields.io/badge/G%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/G--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
