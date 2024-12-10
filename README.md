@@ -91,7 +91,7 @@
 <div align = "center">
   <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src = "https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
-  <img src = "https://img.shields.io/badge/V%20Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
+  <img src = "https://img.shields.io/badge/V--Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
 
 <div align = "center">
