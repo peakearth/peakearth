@@ -123,11 +123,10 @@
 <h3 align="center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
 
 <!-- 깃허브 통계 -->
-<div align="center" style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 1;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 1;"><br>
+<div align="center" style="display: flex; align-items: stretch; gap : 10px">
+  <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 0 0 200px; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight=0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 0 0 200px; height: 200px;">
 </div>
-
 <!-- BOJ 통계 -->
 <br>
 <p align="center">
