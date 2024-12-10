@@ -22,16 +22,20 @@
 <!-- 내용 부분 -->
 <br>
 <h3 align = "center">✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
+
+<h6 align = "center"> 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚞𝚎𝚜 </h6>
 <div align = "center">
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 </div>
 
+<h4 align = "center"> 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 </h4>
 <div align = "center">
   <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
   <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
+<h4 align = "center"> 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 </h4>
 <div align = "center">
   <img src = "https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src = "https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -39,13 +43,15 @@
 </div>
 
 <!-- 공부중인 것들 -->
-<br>
+<br align = "center">
 <h3 align = "center">📚 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 </h3>
 
+<h4 align = "center"> 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚞𝚎𝚜 </h4>
 <div align = "center">
     <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
+<h4 align = "center"> 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 </h4>
 <div align = "center">
   <img src = "https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=black" />
   <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -85,19 +91,22 @@
 <h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝑼𝒓𝒃𝒂𝒏 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 & 𝑮𝑰𝑺 </h3>
 
 <div align = "center">
+  <h4 align = "center"> 𝙶𝙸𝚂 𝚃𝚘𝚘𝚕𝚜 </h4>
   <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src = "https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
 </div>
 
 <div align = "center">
+  <h4 align = "center"> 𝟹𝙳 𝙼𝚘𝚍𝚎𝚕𝚕𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 </h4>
   <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src = "https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
   <img src = "https://img.shields.io/badge/V--Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
 
 <div align = "center">
-    <img src = "https://img.shields.io/badge/Adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <h4 align = "center"> </h4>
+  <img src = "https://img.shields.io/badge/Adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </div>
 
 <!-- 연락처-->
@@ -120,7 +129,7 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align="center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
+<h3 align = "center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
 
 <!-- 깃허브 통계 -->
 <div align="center" style="display: flex; align-items: stretch; gap : 10px">
