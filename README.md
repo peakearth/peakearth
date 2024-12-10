@@ -84,12 +84,12 @@
 <h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝑼𝒓𝒃𝒂𝒏 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 & 𝑮𝑰𝑺 </h3>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src = "https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
 </div>
 
 <div align = "center">
+  <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
   <img src = "https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
   <img src = "https://img.shields.io/badge/V%20Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
@@ -120,12 +120,14 @@
 <!-- 프로젝트 통계 -->
 <br>
 <h3 align="center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
+
+<!-- 깃허브 통계 -->
 <div align="center" style="display: flex; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 1;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 1;"><br>
 </div>
 
-
+<!-- BOJ 통계 -->
 <br>
 <p align="center">
   <a href="https://solved.ac/liilliiilliliiil/">
