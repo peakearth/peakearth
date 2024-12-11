@@ -6,36 +6,28 @@
 <h4 align = "center"> 𝚄𝚛𝚋𝚊𝚗 𝙿𝚕𝚊𝚗𝚗𝚎𝚛  /  𝙶𝙸𝚂 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛  /  𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 </h4>
 
 <div align = "center">
-  𝐼 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑠𝑜𝑙𝑣𝑖𝑔 𝑈𝑅𝐵𝐴𝑁 𝐼𝑆𝑆𝑈𝐸𝑆 𝑢𝑠𝑖𝑛𝑔 𝐺𝐼𝑆 & 𝐷𝑎𝑡𝑎 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔. <br>
-  𝐼`𝑚 𝐼𝑛𝑡𝑒𝑟𝑠𝑡𝑒𝑑 𝐴𝑡 𝐺𝐼𝑆, 𝐷𝑎𝑡𝑎 𝐴𝑛𝑎𝑙𝑦𝑠𝑖𝑠 𝐴𝑛𝑑 𝑉𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑡𝑖𝑜𝑛. <br>
-  𝐼 𝑎𝑖𝑚 𝑡𝑜 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑢𝑟𝑏𝑎𝑛 𝑝𝑙𝑎𝑛𝑛𝑖𝑛𝑔 𝑡ℎ𝑎𝑡 𝑐𝑜𝑚𝑏𝑖𝑛𝑒𝑠 𝑏𝑖𝑔 𝑑𝑎𝑡𝑎 𝑎𝑛𝑑 𝑢𝑟𝑏𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑓𝑜𝑟 𝑠𝑎𝑓𝑒,𝑐𝑜𝑛𝑣𝑒𝑛𝑖𝑒𝑛𝑡 𝑐𝑖𝑡𝑖𝑒𝑠.
-</div>
-
-<br>
-<div align = "center">
-  제 Github에 방문해 주셔서 감사합니다!<br>
-  <br>
-  저는 GIS, 데이터 분석 그리고 시각화를 활용해 도시 문제 해결에 주력하고 있습니다.<br>
-  도시공학과 빅데이터의 융합을 통해 시민들이 안전하고 편리하게 생활할 수 있는 도시 계획을 연구하고자 합니다.<br>
+    𝐼 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑠𝑜𝑙𝑣𝑖𝑔 𝑈𝑅𝐵𝐴𝑁 𝐼𝑆𝑆𝑈𝐸𝑆 𝑢𝑠𝑖𝑛𝑔 𝐺𝐼𝑆 & 𝐷𝑎𝑡𝑎 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔. <br>
+    𝐼`𝑚 𝐼𝑛𝑡𝑒𝑟𝑠𝑡𝑒𝑑 𝐴𝑡 𝐺𝐼𝑆, 𝐷𝑎𝑡𝑎 𝐴𝑛𝑎𝑙𝑦𝑠𝑖𝑠 𝐴𝑛𝑑 𝑉𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑡𝑖𝑜𝑛. <br>
+    𝐼 𝑎𝑖𝑚 𝑡𝑜 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑢𝑟𝑏𝑎𝑛 𝑝𝑙𝑎𝑛𝑛𝑖𝑛𝑔 𝑡ℎ𝑎𝑡 𝑐𝑜𝑚𝑏𝑖𝑛𝑒𝑠 𝑏𝑖𝑔 𝑑𝑎𝑡𝑎 𝑎𝑛𝑑 𝑢𝑟𝑏𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 𝑓𝑜𝑟 𝑠𝑎𝑓𝑒,𝑐𝑜𝑛𝑣𝑒𝑛𝑖𝑒𝑛𝑡 𝑐𝑖𝑡𝑖𝑒𝑠.
 </div>
 
 <!-- 내용 부분 -->
 <br>
 <h3 align = "center">✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
 <div align = "center">
-  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
+    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
-  <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
+    <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src = "https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src = "https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+    <img src = "https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src = "https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </div>
 
 <!-- 공부중인 것들 -->
@@ -47,8 +39,8 @@
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=black" />
-  <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache%20hadoop&logoColor=black" />
+    <img src = "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
 <!-- br -->
@@ -69,15 +61,15 @@
 <br>
 <h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝒄𝒐𝒓𝒅𝒊𝒏𝒈 </h3>
 <div align = "center">
-  <img src = "https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src = "https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
+    <img src = "https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/VS%20Code-22ABF3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-  <img src = "https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
-  <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src = "https://img.shields.io/badge/VS%20Code-22ABF3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+    <img src = "https://img.shields.io/badge/Rstudio%20IDE-75AADB.svg?style=for-the-badge&logo=rstudio-ide&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
 <!-- 도시계획 관련 툴-->
@@ -85,14 +77,14 @@
 <h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝑼𝒓𝒃𝒂𝒏 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 & 𝑮𝑰𝑺 </h3>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src = "https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
+    <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
+    <img src = "https://img.shields.io/badge/ArcGIS-2C7AC3.svg?style=for-the-badge&logo=ArcGIS&logoColor=white" />
 </div>
 
 <div align = "center">
-  <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
-  <img src = "https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
-  <img src = "https://img.shields.io/badge/V--Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Autocad-E51050.svg?style=for-the-badge&logo=Autocad&logoColor=white" />
+    <img src = "https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=Sketchup&logoColor=white" />
+    <img src = "https://img.shields.io/badge/V--Ray-91b6e2.svg?style=for-the-badge&logo=Vray&logoColor=white" />
 </div>
 
 <div align = "center">
@@ -127,6 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=peakearth&show_icons=true&theme=transparent&card_width=220" style="flex: 0 0 200px; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakearth&size_weight=0.5&count_weight=0.5&theme=transparent&card_width=220" style="flex: 0 0 200px; height: 200px;">
 </div>
+
 <!-- BOJ 통계 -->
 <br>
 <p align="center">
