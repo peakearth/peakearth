@@ -2,13 +2,13 @@
 <html>
 
 <!-- Main Theme -->
-<h2 align = "center"> 𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :) </h3>
+<h1 align = "center"> 𝑯𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 :) </h1>
 
 <!-- 중간 소개 -->
-<div align = "center">
+<h4 align = "center">
   𝙸 𝚊𝚒𝚖 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚊 𝚂𝚊𝚏𝚎𝚛 𝚌𝚒𝚝𝚢 𝚞𝚜𝚒𝚗𝚐 <br>
   𝙳𝚊𝚝𝚊-𝚋𝚊𝚜𝚎𝚍 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚊𝚗𝚍 𝙶𝚎𝚘𝚐𝚛𝚊𝚙𝚑𝚒𝚌 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚂𝚢𝚜𝚝𝚎𝚖. <br>
-</div><br>
+</h4><br>
 
 <h3 align  = "center"> 𝐈`𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐀𝐭 </h3>
 <div align = "center">
@@ -21,7 +21,7 @@
 
 <!-- 내용 부분 -->
 <br>
-<h3 align = "center">✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
+<h3 align = "center">✨ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 ✨</h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
@@ -40,7 +40,7 @@
 
 <!-- 공부중인 것들 -->
 <br>
-<h3 align = "center">📚 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 </h3>
+<h3 align = "center">📚 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 📚</h3>
 
 <div align = "center">
     <img src = "https://img.shields.io/badge/Java-E11F21.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -67,7 +67,7 @@
 
 <!-- 코딩 관련 툴-->
 <br>
-<h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝒄𝒐𝒓𝒅𝒊𝒏𝒈 </h3>
+<h3 align = "center">🛠 𝐓𝐨𝐨𝐥𝐬 𝐟𝐨𝐫 𝐂𝐨𝐫𝐝𝐢𝐧𝐠 🛠</h3>
 <div align = "center">
   <img src = "https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,7 +82,7 @@
 
 <!-- 도시계획 관련 툴-->
 <br>
-<h3 align = "center">🛠 𝑻𝒐𝒐𝒍𝒔 𝒇𝒐𝒓 𝑼𝒓𝒃𝒂𝒏 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 & 𝑮𝑰𝑺 </h3>
+<h3 align = "center">🛠 𝐓𝐨𝐨𝐥𝐬 𝐟𝐨𝐫 𝐔𝐫𝐛𝐚𝐧 𝐏𝐥𝐚𝐧𝐧𝐢𝐧𝐠 & 𝐆𝐈𝐒 🛠</h3>
 
 <div align = "center">
   <img src = "https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
@@ -102,7 +102,7 @@
 
 <!-- 연락처-->
 <br>
-<h3 align = "center">📫 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 </h3>
+<h3 align = "center">📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📫</h3>
 <div align = "center">
   <a href = "mailto:1933874@donga.ac.kr" class="no-underline">
     <img src = "https://img.shields.io/badge/Send%20E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -111,7 +111,7 @@
 
 <!-- 노션 연결 -->
 <br>
-<h3 align = "center">🐱 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 </h3>
+<h3 align = "center">🐱 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 🐱</h3>
 <div align = "center">
   <a href = "https://bit.ly/4fMvYdr" class="no-underline">
     <img src = "https://img.shields.io/badge/MY%20profile-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
@@ -120,7 +120,7 @@
 
 <!-- 프로젝트 통계 -->
 <br>
-<h3 align="center">📈 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑺𝒕𝒂𝒕𝒔 </h3>
+<h3 align="center">📈 𝐂𝐨𝐫𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐬 📈</h3>
 
 <!-- 깃허브 통계 -->
 <div align="center" style="display: flex; align-items: stretch; gap : 10px">
