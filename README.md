@@ -109,12 +109,17 @@
   </a>
 </div>
 
-<!-- 노션 연결 -->
+<!-- 노션 & 링크드인 연결 -->
 <br>
 <h3 align = "center">🐱 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 🐱</h3>
 <div align = "center">
   <a href = "https://bit.ly/4fMvYdr" class="no-underline">
     <img src = "https://img.shields.io/badge/MY%20profile-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
+  </a>
+
+<br>
+  <a href = "https://www.linkedin.com/in/peakearth00/" class="no-underline"> 
+    <img src = "https://img.shields.io/badge/MY%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
